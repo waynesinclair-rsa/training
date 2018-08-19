@@ -1,3 +1,3 @@
 This is file2 - now a conflicting line with branch dummy
 not a conflicting line
-This line will also conflict with branch dummy
+Line 3 also conflicts on dummy
